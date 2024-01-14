@@ -643,7 +643,7 @@ script script_karate_man_practice
     karate_man_print_textbox NULL
     rest 24
     rest 24
-    karate_man_enable_flow 1
+    karate_man_enable_flow 0
     rest 24
     goto script_karate_man_main
 
